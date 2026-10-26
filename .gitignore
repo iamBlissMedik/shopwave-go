@@ -1,0 +1,13 @@
+# Binaries
+/bin/
+*.exe
+*.test
+*.out
+
+# Local config — never commit secrets
+.env
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
